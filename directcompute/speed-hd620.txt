@@ -1,0 +1,12 @@
+primes:
+Init
+Run
+GetOutput
+Time:     1.3675 s
+TimeCalc: 1.00841 s
+Speed:    1.53357e+07 numbers/s
+Speed:    957288 primes/s
+Primes:   1309087
+Count:    20971520
+Threads:  64 (gpu shader threads)
+Groups:   256 (gpu shader thread groups)

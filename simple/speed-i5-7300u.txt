@@ -1,0 +1,7 @@
+primes:
+Time:   8.14606 s
+Speed:  2.57444e+06 numbers/s
+Speed:  160702 primes/s
+Primes: 1309087
+Count:  20971520
+Threads: 1 (single-threaded)

@@ -1,0 +1,9 @@
+sizeof(ValType) = 4 (j)
+primes:
+Time:     3.46957 s
+TimeCalc: 3.19001 s
+Speed:    6.04442e+06 numbers/s
+Speed:    377305 primes/s
+Primes:   1309087
+Count:    20971520
+Threads:  8
