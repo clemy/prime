@@ -11,4 +11,4 @@ Various ways of multi-threading.
 * **threadpool:** using pthreads, but assigning work packages dynamically to pool of threads (C++17)
 * **threadpool-cpp:** like threadpool, but with C++11 threads (C++17 or MS VS2019)
 * **directcompute:** using GPU shader (VS2019 & Windows 10 SDK 10.0.17763.0)
-
+* **rust-vulkan:** using GPU vulkan shader (Rust Language Edition 2018)

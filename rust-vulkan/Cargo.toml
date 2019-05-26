@@ -1,0 +1,9 @@
+[package]
+name = "vulprime"
+version = "0.1.0"
+authors = ["Bernhard C. Schrenk <clemy@clemy.org>"]
+edition = "2018"
+
+[dependencies]
+vulkano = "0.12.0"
+vulkano-shaders = "0.12.0"
